@@ -1,5 +1,8 @@
 # cat_burger
 
+使用言語
+HTML/CSS Javascript
+
 codepenの制作物
 https://codepen.io/
 
